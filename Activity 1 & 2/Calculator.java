@@ -1,4 +1,4 @@
-public class BasicCalculator {
+public class Calculator {
     public static void main(String[] args) {
         
         double num1 = 20;
